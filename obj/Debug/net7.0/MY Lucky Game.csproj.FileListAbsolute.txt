@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\MY Lucky Game\bin\Debug\net7.0\MY Lucky Game.exe
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\MY Lucky Game\bin\Debug\net7.0\MY Lucky Game.deps.json
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\MY Lucky Game\bin\Debug\net7.0\MY Lucky Game.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\MY Lucky Game\bin\Debug\net7.0\MY Lucky Game.dll
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\MY Lucky Game\bin\Debug\net7.0\MY Lucky Game.pdb
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\MY Lucky Game\obj\Debug\net7.0\MY Lucky Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\MY Lucky Game\obj\Debug\net7.0\MY Lucky Game.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\MY Lucky Game\obj\Debug\net7.0\MY Lucky Game.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\MY Lucky Game\obj\Debug\net7.0\MY Lucky Game.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\MY Lucky Game\obj\Debug\net7.0\MY Lucky Game.dll
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\MY Lucky Game\obj\Debug\net7.0\refint\MY Lucky Game.dll
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\MY Lucky Game\obj\Debug\net7.0\MY Lucky Game.pdb
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\MY Lucky Game\obj\Debug\net7.0\MY Lucky Game.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\MY Lucky Game\obj\Debug\net7.0\ref\MY Lucky Game.dll
